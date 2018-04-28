@@ -1,4 +1,5 @@
-# vocable-app-en-de
+### vocable-app-en-de
+*Bring your vocable collected (in a csv, Excel file) into the web for an interactive experience*
 
 - Simple vocable learning web app 
 - Data source will be provided by a spreadsheet
