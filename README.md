@@ -1,2 +1,9 @@
 # vocable-app-en-de
-Learning vocable (provided by a spreadsheet) in an interactive web app 
+
+- Simple vocable learning web app 
+- Data source will be provided by a spreadsheet
+
+- Connects to a Google Spreadsheet File with two columns of words in English and its Translation in German. 
+
+
+
