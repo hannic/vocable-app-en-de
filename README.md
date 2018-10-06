@@ -22,7 +22,7 @@ It is a simple vocable web app to represent your collected data
 
 *Bring your vocable collected (in a csv, Excel file) into the web for an interactive experience*
 
-**index.html**
+**index.html:**
 
   ```javascript
   
