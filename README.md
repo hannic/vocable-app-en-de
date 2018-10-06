@@ -17,9 +17,9 @@ It is a simple vocable web app to represent your collected data
 
 
 <a name="customize"/>
+
 ## Customize
 
-Bla 
 *Bring your vocable collected (in a csv, Excel file) into the web for an interactive experience*
 
 **index.html**
