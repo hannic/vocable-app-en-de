@@ -6,9 +6,10 @@
 
 
 <a name="about"/>
+
 ## About
 
-- It is a simple vocable web app to represent your collected data 
+It is a simple vocable web app to represent your collected data 
 - Data source will be provided by a Google spreadsheet, so while there will more additions the app will get the data by demand. 
 - The Google Spreadsheet file has two columns with words in English and its Translation in German. The translation will be displayed with a delay. 
 
@@ -18,6 +19,7 @@
 <a name="customize"/>
 ## Customize
 
+Bla 
 *Bring your vocable collected (in a csv, Excel file) into the web for an interactive experience*
 
 **index.html**
