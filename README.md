@@ -1,4 +1,6 @@
-## vocable-app-en-de
+# The English2Deutsch Words
+
+github project name: "vocable-app-en-de"
 
 ##### Table of Contents  
 [About](#about)  
