@@ -25,6 +25,8 @@ It is a simple vocable web app to represent your collected data
 **index.html**
 
   ```javascript
+  
+  // replace <url to csv> with your csv 
   function myFunction(){
       var uri = <url to csv> 
       //e.g.  'https://docs.google.com/spreadsheets/d/e/2PACX1vQJcScro25wgFYAOQ0XEQYg6WccqhkY7WStqxKrJWKK_yq7sTmXMXARUsbrd4T8PIfsCToXNhzlwRou/pub?output=tsv';
